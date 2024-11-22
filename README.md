@@ -1,1 +1,1 @@
-# Chess-pieces-Recognition-sytem
+# Chess-pieces Recognition sytem
